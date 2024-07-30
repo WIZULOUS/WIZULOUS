@@ -17,8 +17,6 @@ Discord: wizulous
 ⚙️ Tools, Frameworks, and softwares I use...
 
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-%23007acc.svg?style=for-the-badge)
-![REACT](https://img.shields.io/badge/REACT-%2358c4dc.svg?style=for-the-badge&logo=react&logoColor=white)
-![NEXTJS](https://img.shields.io/badge/NEXT.JS-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![TAILWINDCSS](https://img.shields.io/badge/TAILWIND_CSS-%233ea1b4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![ROBLOXSTUDIO](https://img.shields.io/badge/ROBLOX_STUDIO-%23009fff.svg?style=for-the-badge&logo=robloxstudio&logoColor=white)  
 ![MANTINE](https://img.shields.io/badge/MANTINE_UI_LIBRARY-%23339af0.svg?style=for-the-badge&logo=mantine&logoColor=white)
