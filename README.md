@@ -9,7 +9,6 @@ Discord: wizulous
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178c6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Luau](https://img.shields.io/badge/Luau-%230db7ed.svg?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233674a5.svg?style=for-the-badge&logo=python&logoColor=ffd344)
 ![HTML](https://img.shields.io/badge/HTML5-%23e44d26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-%230170ba.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23db7533.svg?style=for-the-badge)
